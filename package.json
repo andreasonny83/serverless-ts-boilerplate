@@ -12,10 +12,9 @@
   "author": "andreasonny83",
   "license": "ISC",
   "devDependencies": {
+    "@eslint/js": "^9.12.0",
     "@types/aws-lambda": "^8.10.145",
     "@types/node": "^20.16.11",
-    "@typescript-eslint/eslint-plugin": "^8.9.0",
-    "@typescript-eslint/parser": "^8.9.0",
     "eslint": "^9.12.0",
     "globals": "^15.11.0",
     "serverless": "^4.4.6",
@@ -24,7 +23,6 @@
   "dependencies": {
     "dotenv": "^16.4.5",
     "nodemon": "^3.1.7",
-    "save-dev": "^0.0.1-security",
     "ts-node": "^10.9.2"
   }
 }
